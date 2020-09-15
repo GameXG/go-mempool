@@ -1,3 +1,3 @@
-module mempool
+module gomempool
 
 go 1.14
