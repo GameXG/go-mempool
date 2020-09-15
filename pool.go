@@ -1,4 +1,4 @@
-package gomempool
+package mempool
 
 import (
 	"fmt"
